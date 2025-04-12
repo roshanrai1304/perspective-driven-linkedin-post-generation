@@ -45,7 +45,7 @@ python api.py
 The API will be available at `http://localhost:8000`.  You can use the `/generate-post` endpoint to generate LinkedIn posts.
 
 Example request:
-
+```
 json
 {
 "content": "A new AI algorithm developed by researchers at Stanford has shown 94% accuracy in detecting early-stage pancreatic cancer from routine CT scans, potentially improving survival rates through earlier intervention. The tool is designed to assist radiologists by flagging suspicious findings for further review, not to replace human expertise.",
