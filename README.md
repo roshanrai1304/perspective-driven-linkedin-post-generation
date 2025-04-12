@@ -123,5 +123,8 @@ See [design_decisions.md](design_decisions.md) for a detailed discussion of limi
 
 [MIT License](LICENSE)
 
+## Author
+
+[Roshan Rai](https://www.github.com/roshanrai1304)
 
 
